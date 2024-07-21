@@ -20,6 +20,10 @@ Atualmente estou cursando duas faculdades:
 
 Possuo um técnico em Mecânica Industrial, bolsa que consegui através do programa Vence, um projeto social do governo do Estado de São Paulo, no ano de 2015 com conclusão em 2016.
 
+<p align="left">
+  <img align="center" src="image04.gif" alt="gif">
+</p>
+
 ## Tecnologias que estudo:
 
 <!-- GITHUB STATS -->
