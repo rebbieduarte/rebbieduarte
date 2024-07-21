@@ -8,7 +8,7 @@
 * 📜Gosto de ler, desenhar, escrever, jogar e escutar música:
 
 <!-- SPOTIFY-->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rebbiepadfoot&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rebbiepadfoot&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
