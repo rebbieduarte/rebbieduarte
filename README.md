@@ -2,7 +2,7 @@
 
 
 ## Sobre mim 👨‍💻
-* 📆 Tenho 27 anos
+* 📆 Tenho 28 anos
 * 📍 Atualmente moro em São Vicente, uma cidade do litoral de São Paulo
 * 🥋 Luto jiu-jitsu 
 * 📜Gosto de ler, desenhar, escrever, jogar e escutar música:
